@@ -1,6 +1,8 @@
 package solution
 
-import "math"
+import (
+	"math"
+)
 
 func ReverseInteger(num int) int {
 	reversed := 0
